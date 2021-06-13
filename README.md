@@ -33,7 +33,8 @@ And last but not least, we obtained the visualization of attention layers, which
 
 
 ## Many Splits loss on BERT on Recovery dataset:
-![Image](images/loss_bert_many_splits.png "Plot")
+
+<img src="https://github.com/sk-nlp-team/misinformation_detection/blob/main/images/loss_bert_many_splits.png" width=50% height=50%>
 
 
 
